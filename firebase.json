@@ -7,6 +7,7 @@
       "**/node_modules/**"
     ],
     "redirects": [
+      { "source": "/", "destination": "https://dart.dev", "type": 301 },
       { "source": "/:path*", "destination": "https://dart.dev/:path", "type": 301 }
     ]
   }
