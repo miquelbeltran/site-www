@@ -14,6 +14,8 @@
           permalink: /codelabs/dart-cheatsheet
         - title: Asynchronous programming
           permalink: /codelabs/async-await
+        - title: Streams
+          permalink: /codelabs/streams
     - title: Tutorials
       urlExactMatch: true
       match-page-url-exactly: true

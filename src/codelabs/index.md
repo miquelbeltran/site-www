@@ -26,6 +26,11 @@ some of the most commonly used, yet unique features of the Dart language.
 Use the latest, experimental version of DartPad to learn how to write 
 asynchronous code using futures and the `async` and `await` keywords.
 
+### [Asynchronous programming with streams](/codelabs/streams)
+
+Use the latest, experimental version of DartPad to learn how to write 
+asynchronous and event based code using streams.
+
 ## Flutter
 
 To learn about Flutter, try one of the
