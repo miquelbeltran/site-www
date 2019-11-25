@@ -1056,6 +1056,16 @@ bool _listEquals<T>(List<T> a, List<T> b) {
 
 It’s time to practice what you’ve learned in one final exercise.
 
+To simulate streams, this exercise provides the asynchronous
+function `tempCelsius()` and the function `celsiusToFahrenheit()`:
+
+|-----------------------+-----------------------------------+-------------|
+| Function              | Type signature                    | Description |
+|-----------------------|-----------------------------------|-------------|
+| tempCelsius()         | `Future<int> tempCelsius()`       | Reads a temperature value from a weather station, returns it as `int` asynchronously. |
+| celsiusToFahrenheit() | `int celsiusToFahrenheit(int)`    | Converts the input temperature in Celsius to Fahrenheit.
+{:.table .table-striped}
+
 **Part 1** `tempStreamFahrenheit()`
 
 Similar to the exercise in the previous section, create a new stream
